@@ -1,2 +1,2 @@
-config:
-  aws:region: eu-central-2
+environment:
+  - pulumi-quickstart-dev
